@@ -1,0 +1,84 @@
+{
+    "venues": [
+        {
+            "description": "Schon seit längerem wollte Rummel sich sein kleines Paradies schaffen, hat tiefe stille Wasser betörnt und stürmischen Zeiten getrotzt und hat endlich geankert - in einer schönen kleinen Bucht nicht weit von Euch! In diese Bucht läd Rummel von Mai bis Mitte September zum Chillen und Grillen, zum Schunkeln, Munkeln und natürlich Trunkeln. Und wenn Rummel mal so richtig gut drauf ist, dann wird auch mal ordentlich gerummelt! So oder so, zu Wasser wie zur Bucht, auch der Rummel ist nichts ohne seine Crew. Also Leichtmatrosen und Matrösinnen - kommt rum und lasst es Euch gut gehn! Ahoi* Ach ja, geöffnet ist nur an sonnigen und regenfreien Tagen :) ________________ Reservierungsanfragen sind nur per Mail möglich bucht@rummels-welt.de (Reservierungsanfragen werden nur zwischen Di-Fr beantwortet) ",
+            "name": "Rummels Bucht",
+            "geometry": [
+                52.500772,
+                13.472764
+            ]
+        },
+        {
+            "description": "Das SEZ bietet ein großes Sport-, Freizeit- und Erholungsangebot. Ab sofort könnt ihr das SEZ für Events unter: sez@glut.berlin anmieten. Kommt vorbei und genießt den industriellen Charm einer in Vergessenheit geglaubten Location. ",
+            "name": "SEZ Berlin",
+            "geometry": [
+                52.527025,
+                13.446139
+            ]
+        },
+        {
+            "description": "Das Huxleys seit fast einem Jahrhundert ein Name in Berlin. Varietébühne, Sportpalast, Rollschuhbahn und Ausflugsziel am Rande des Volksparks Hasenheide. Das HUXLEYS hat eine lange Geschichte, und die ist verbunden mit Entertainment, Vergnügen und Livemusik.",
+            "name": "Huxley's Neue Welt",
+            "geometry": [
+                52.486319,
+                13.421437
+            ]
+        },
+        {
+            "description": "Wir sind ein Veranstaltungsort. Eine Plattform. Wir sind ein Kollektiv. Basisdemokratisch und solidarisch. Wir sind das Mensch Meier. Und ihr seid es auch, wenn ihr da seid. Wir wollen einen Raum erschaffen, in dem wir unsere Beziehungen selbstbestimmt formen. Das ist im Kapitalismus, im Patriarchat, leider kein erreichbares Ziel. Aber wir haben einfach schon mal angefangen, uns dieses Ziel als Weg formuliert. Für unsere Zukunft. In einem Raum für Inspiration, Intervention und Bewegung. KulturKunstPartyPolitik. Mit den Mitteln der Kritik und den Waffen der Kunst unordentlich Theater machen. Mensch Meier ",
+            "name": "Mensch Meier",
+            "geometry": [
+                52.535069,
+                13.452312
+            ]
+        },
+        {
+            "description": "The club is located in a former underground gay cruising toilet under the Yorckstrasse in Kreuzberg.",
+            "name": "Zur Klappe",
+            "geometry": [
+                52.493039,
+                13.387248
+            ]
+        },
+        {
+            "description": "Formerly Shift Bar in the Kraftwerk complex which also houses Tresor.",
+            "name": "OHM",
+            "geometry": [
+                52.510507,
+                13.42022
+            ]
+        },
+        {
+            "description": "Club for electronic Music directly in the heart of Berlin! Between Hakescher Markt and 1 min. away from S Alexanderplatz. Stylish Crowd and many of Berlins most known artists.",
+            "name": "M-BIA",
+            "geometry": [
+                52.522437,
+                13.409063
+            ]
+        },
+        {
+            "description": "Booze, Karaoke and Rock'n'Roll! Sparkles, disco lights, 14 private karaoke cabins and a big stage waiting for your performance! We have 10 cabins for walk-ins (for up to 10 guests) and 4 larger cabins for larger groups, which can be reserved in advance (for up to 18 guests). Mondays - MultiSEXual BOXhopping! Queer + Friends. Mix + Mingle! Box Sharing + Caring! 3,- Entry. Sing in the karaoke boxes all night long! Big stage opens at 22h. Tuesdays - The House of Presents’ Drag Show Doors at 9, pre-show at 10, main show at 11 Wednesdays - BOX HAPPY HOUR All cabins half-priced from 7pm - midnight Thursdays - Mixed Bag! Special Events, DJs, Live Musik, Queer Events, and more! Fridays / Saturday / Sunday: SING ON STAGE!",
+            "name": "Monster Ronson's Ichiban Karaoke",
+            "geometry": [
+                52.505188,
+                13.448437
+            ]
+        },
+        {
+            "description": "Ägyptisches & Arabisches Restaurant · Smoker's Lounge · Club · Café · Cocktail Bar · Der feine Orient in Berlin",
+            "name": "Marooush Restaurant - Lounge - Bar - Club",
+            "geometry": [
+                52.500938,
+                13.321438
+            ]
+        },
+        {
+            "description": "Kater Blau gives you everything you need for a party: House, Techno, Konfetti. Chill next to the Spree. All this on the ex wood markt area.",
+            "name": "Kater Blau",
+            "geometry": [
+                52.512187,
+                13.425563
+            ]
+        }
+    ]
+}
