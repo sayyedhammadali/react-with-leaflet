@@ -1,31 +1,3 @@
-/* map styles */
-.leaflet-container {
-  height: 100vh;
-}
-
-/* zoom in/out controllers */
-.leaflet-control-container .leaflet-top.leaflet-left {
-  bottom: 8px;
-  top: unset;
-}
-
-/* toggle sidebar button */
-.sidebar-toggle-btn {
-  position: fixed;
-  z-index: 1000;
-}
-
-/* sidebar content */
-#sidebar p {
-  padding: 0 10px;
-  margin: 0;
-}
-
-/* sidebar footer - address */
-.sidebar-footer {
-  background: yellow;
-}
-
 /* landing page styles */
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 body {

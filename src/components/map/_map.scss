@@ -1,0 +1,10 @@
+/* map container */
+.leaflet-container {
+  height: 100vh;
+}
+
+/* zoom in/out controllers */
+.leaflet-control-container .leaflet-top.leaflet-left {
+  bottom: 8px;
+  top: unset;
+}

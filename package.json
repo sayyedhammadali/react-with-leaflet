@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "leaflet": "^1.5.1",
+    "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-leaflet": "^2.5.0",

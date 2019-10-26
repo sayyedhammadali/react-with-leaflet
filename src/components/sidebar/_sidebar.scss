@@ -1,0 +1,16 @@
+/* toggle sidebar button */
+.sidebar-toggle-btn {
+  position: fixed;
+  z-index: 1000;
+}
+
+/* sidebar content */
+#sidebar p {
+  padding: 0 10px;
+  margin: 0;
+}
+
+/* sidebar footer - address */
+.sidebar-footer {
+  background: yellow;
+}
