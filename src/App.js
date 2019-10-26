@@ -1,5 +1,5 @@
 import React from 'react';
-import MapView from './components/MapView';
+import MapView from './components/LandingPage';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
