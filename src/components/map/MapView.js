@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 import { Map, TileLayer } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import data from '../assets/data';
+import data from '../../assets/data';
 import Markers from './VenueMarkers';
 
 const currentLocation = { lat: 52.52437, lng: 13.41053 };

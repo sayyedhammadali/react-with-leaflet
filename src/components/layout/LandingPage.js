@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
-import MapView from './MapView';
-import Sidebar from './Sidebar';
+import MapView from '../map/MapView';
+import Sidebar from '../sidebar/Sidebar';
 
 class LandingPage extends Component {
   state = {

@@ -1,7 +1,7 @@
 import React from 'react';
-import MapView from './components/LandingPage';
-import './main.scss';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import './assets/scss/main.scss';
+import MapView from './components/layout/LandingPage';
 
 function App() {
   return (
