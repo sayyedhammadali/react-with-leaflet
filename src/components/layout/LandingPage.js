@@ -5,7 +5,7 @@ import Sidebar from '../sidebar/Sidebar';
 
 class LandingPage extends Component {
   state = {
-    sidebarShow: true,
+    sidebarShow: false,
   }
 
   componentDidMount() {

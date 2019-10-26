@@ -1,16 +1,57 @@
+/* general sidebar stylings */
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  max-height: 100vh;
+  p {
+    padding: 0 10px;
+    margin: 0;
+  }
+}
+
 /* toggle sidebar button */
 .sidebar-toggle-btn {
   position: fixed;
   z-index: 1000;
 }
 
-/* sidebar content */
-#sidebar p {
-  padding: 0 10px;
-  margin: 0;
+/* sidebar header */
+.sidebar-header {
+  padding: 0;
+}
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  // header title
+  .header-title {
+    margin: 0;
+    padding: 10px 0;
+  }
+  // header buttons
+  .back-btn,
+  .overlay-menu-btn
+  {
+    padding: 10px;
+  }
+}
+.header-thumbnail {
+  img {
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+  }
 }
 
-/* sidebar footer - address */
+/* sidebar content */
+.sidebar-content {
+  flex-grow: 1;
+  overflow: auto;
+}
+
+/* sidebar footer */
 .sidebar-footer {
   background: yellow;
 }
+
+
