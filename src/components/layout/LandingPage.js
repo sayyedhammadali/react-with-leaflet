@@ -1,37 +1,24 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 import MapView from '../map/MapView';
-import Sidebar from '../sidebar/Sidebar';
+import SideMenu from '../menu/SideMenu';
+import BottomMenu from '../menu/BottomMenu';
 
 class LandingPage extends Component {
   state = {
-    sidebarShow: false,
   }
 
   componentDidMount() {
   }
 
   render() {
-    const { sidebarShow } = this.state;
-
     return (
       <div className="wrapper">
+        <SideMenu />
 
-        <Sidebar sidebarShow={sidebarShow}/>
+        <BottomMenu />
 
-        <div id="content" className='p-0'>
-
-          <button
-            id="sidebarCollapse"
-            className="btn btn-dark sidebar-toggle-btn"
-            onClick={() => this.setState({ sidebarShow: !sidebarShow })}
-          >
-            <i className="fas fa-align-left"></i>
-          </button>
-
-          <MapView />
-
-        </div>
+        <MapView />
       </div>
     );
   }

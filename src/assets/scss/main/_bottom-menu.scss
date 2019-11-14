@@ -1,0 +1,41 @@
+#bottom-menu {
+  width: 100vw;
+  background-color: white;
+  height: 0;
+  position: absolute;
+  z-index: 1001;
+  margin-top: calc(100vh - 50px);
+  transition: all 0.3s linear;
+}
+
+#bottom-menu.active {
+  height: calc(100vh - 100px);
+  background-color: white;
+  margin-top: 100px;
+  transition: margin-top 0.3s linear;
+}
+
+#bottom-menu {
+  .bottom-menu-content-container {
+    position: relative;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+  }
+
+  .bottom-sub-menu-container {
+    width: 100vw;
+    z-index: 1001;
+  }
+
+  .bottom-menu-toggle-btn {
+    position: absolute;
+    z-index: 1001;
+    left: calc(100vw - 50%);
+  }
+
+  .menu-content {
+    margin-top: 54px;
+    border: solid red;
+  }
+}

@@ -1,7 +1,9 @@
 /* defaults */
-@import "defaults/default-sidebar";
+// @import "defaults/default-sidebar";
 
 /* custom styles */
 @import "main/layout";
 @import "main/map";
-@import "main/sidebar";
+// @import "main/sidebar";
+@import "main/side-menu";
+@import "main/bottom-menu";
